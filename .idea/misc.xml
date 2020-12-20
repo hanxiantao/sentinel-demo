@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sentinel_quick_start/pom.xml" />
         <option value="$PROJECT_DIR$/sentinel_springcloud/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel_rule/pom.xml" />
       </list>
     </option>
   </component>
